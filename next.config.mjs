@@ -1,8 +1,10 @@
 /** @type {import('next').NextConfig} */
 
+const basePath = process.env.LOCAL === 'true' ? '' : '/blog';
+
 const nextConfig = {
   output: "export",
-  basePath: "/blog", // Il nome del tuo repository GitHub
+  basePath: basePath, // Il nome del tuo repository GitHub
   assetPrefix: "", // Imposta questo prefisso per caricare correttamente gli asset
   images: {
     path: "", // Percorso corretto per le immagini in base al repository
