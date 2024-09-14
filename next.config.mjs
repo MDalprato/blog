@@ -2,7 +2,7 @@
 
 const nextConfig = {
   output: "export",
-  basePath: "", // Il nome del tuo repository GitHub
+  basePath: "/blog", // Il nome del tuo repository GitHub
   assetPrefix: "", // Imposta questo prefisso per caricare correttamente gli asset
   images: {
     path: "", // Percorso corretto per le immagini in base al repository
