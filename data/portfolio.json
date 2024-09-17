@@ -3,9 +3,9 @@
     "headerTaglineOne": "Hello 👋",
     "headerTaglineTwo": "I'm Marco Dalprato - curious",
     "headerTaglineThree": "designer and devloper",
-    "headerTaglineFour": " based in New Delhi, India.",
+    "headerTaglineFour": " based Italy.",
     "showCursor": true,
-    "showBlog": true,
+    "showBlog": false,
     "darkMode": true,
     "showResume": true,
     "socials": [
