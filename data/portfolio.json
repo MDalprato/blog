@@ -67,29 +67,7 @@
             "url": "http://cubcabrix.com/"
         }
     ],
-    "services": [
-        {
-            "id": "1",
-            "title": "Art Direction",
-            "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
-        },
-        {
-            "id": "2",
-            "title": "Branding",
-            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
-        },
-        {
-            "id": "3",
-            "title": "Web Design",
-            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
-        },
-        {
-            "id": "4",
-            "title": "3D Design",
-            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
-        }
-    ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"aboutpara": "I’ve always been a bit of a strange person, enough to be considered unique. Since childhood, I’ve been passionate about electronics, disassembling everything from cameras to radios, amplifiers, and even TVs. This passion led me to study Electronics and Telecommunications at the Luigi Bucci Technical Institute in Faenza. My fascination with electronics started with an old book I found in the attic: “DIY Electronics,” which introduced me to simple projects like building an FM transmitter. It was amazing to transmit my voice through the air to a regular radio. Around 2003, I got my first PC, an Acer Aspire, and soon after, I discovered programming through an old Visual Basic guide of my father’s. My first program simulated car accidents, calculating G-forces, speed, and trajectories—a project inspired by my dad’s job as a traffic cop. As the years passed, I began upgrading my PCs, diving deeper into Apple products, starting with an iPod Classic. This sparked my love for Apple and eventually led me to switch from PC to Mac, a move that completely changed how I viewed technology. High school was a turning point. I started excelling in subjects like math and electrotechnics, which combined electronics and mechanics—my true passion. My final project was a robotic arm controlled by a custom programming language, a challenge that took 9 months of hard work but felt incredibly rewarding. After graduation, I skipped university and quickly found a job at IEMCA testing electrical systems. I was motivated by the promise of earning my own salary and the car my parents promised if I found work. A month later, I made the big switch from PC to Mac, fully embracing the Apple ecosystem. Now, I’m at peace. I’ve found a fantastic job, paid off my Mac, my car, and I’ve built a great Hi-Fi stereo system with my first few paychecks. I no longer need to ask for money from my parents, and I’ve settled into a life that truly reflects who I am.",
     "resume": {
         "tagline": "👋  I'm a full stack Web Developer.",
         "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
